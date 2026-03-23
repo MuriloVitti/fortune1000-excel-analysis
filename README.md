@@ -98,3 +98,11 @@ This project delivers a comprehensive financial analysis of the Fortune 1000 com
 - **Technology warrants investment focus:** highest margin sector with strong representation — quality over quantity.
 - **Retailing and Food & Drug Stores need margin improvement:** high revenue but structurally low profitability suggests pricing or cost inefficiency.
 - **Financials' dominance is partly a function of company count:** average per-company revenue is more moderate when adjusted for sector size.
+
+---
+
+## Contact
+- LinkedIn: [Murilo Maffei Vitti](https://www.linkedin.com/in/murilomvitti/)
+- Email: [murilo.mvitti@gmail.com](mailto:murilo.mvitti@gmail.com)
+- GitHub: [MuriloVitti](https://github.com/MuriloVitti)
+```
