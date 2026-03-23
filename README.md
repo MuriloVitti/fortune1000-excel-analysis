@@ -87,7 +87,7 @@ This project delivers a comprehensive financial analysis of the Fortune 1000 com
 
 - **Retailing generates high revenue (~$2.6T) but only 4% profit margin**, exposing a classic high-volume, low-efficiency business model. Food & Drug Stores is the worst performer at just 1% margin despite significant revenue.
 
-- **The top 5 sectors by revenue** (Financials, Health Care, Retailing, Technology, Energy) show very different margin profiles — ranging from 1% to 19% — demonstrating that sector size and sector efficiency are largely independent.
+- **The top 5 sectors by revenue** (Financials, Health Care, Retailing, Technology, Energy) show very different margin profiles — ranging from 4% to 19% — demonstrating that sector size and sector efficiency are largely independent.
 
 - **Financials' revenue dominance is partly structural:** with 163 companies — 48 more than second-place Technology — its total revenue reflects quantity of companies as much as individual performance.
 
